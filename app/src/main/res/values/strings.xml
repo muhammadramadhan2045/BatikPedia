@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BatikPedia</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="detection">Deteksi</string>
+    <string name="deskripsi">Hasil deteksi :</string>
+    <string name="result">-------------</string>
+    <string name="empty_image_warning">\ngambar tidak boleh kosong</string>
+    <string name="accuracy">Keakuratan : %s</string>
+</resources>

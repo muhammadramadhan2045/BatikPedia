@@ -65,7 +65,8 @@ dependencies {
 
     implementation("androidx.exifinterface:exifinterface:1.3.6")
 
-    implementation("com.tbuonomo:dotsindicator:5.0")
+    //splash screen
+    implementation("androidx.core:core-splashscreen:1.0.0")
 
 
     testImplementation("junit:junit:4.13.2")
